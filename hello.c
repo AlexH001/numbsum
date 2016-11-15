@@ -2,9 +2,8 @@
 
 int main (void)
 {
-#include <stdio.h>
-int main()
-{
+
+
     int n1, n2, Sum;
     
     printf("Enter two integers: ");
@@ -20,4 +19,3 @@ int main()
 
     return 0;
 }
-} 
