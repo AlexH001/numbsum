@@ -8,7 +8,7 @@ int main (void)
     
     printf("Enter two integers: ");
 
-    // two integers entered by user are stored using scanf()
+    // two integers entered by user are stored using scanf
     scanf("%d %d", &n1, &n2);
 
     // store sum in variable Sum
