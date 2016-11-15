@@ -1,0 +1,9 @@
+#include <stidio.h>
+#include executable files
+*.exe
+
+int main (void)
+{
+printf("adam is very dumb");
+return 0;
+}
