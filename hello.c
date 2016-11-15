@@ -19,8 +19,8 @@ int main (void)
 	
 	// check if the sum is even or odd, 
     // and print result to screen
-    if(Sum % 2 == 0) printf("%d is even\n", Sum);
-    else printf("%d is odd\n", Sum);
+    if(Sum % 2 == 0) printf("\n%d is even\n", Sum);
+    else printf("\n%d is odd\n", Sum);
 
     return 0;
 }
